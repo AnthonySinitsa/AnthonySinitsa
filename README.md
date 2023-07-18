@@ -3,9 +3,9 @@
 <h1 align="center">Hello there, I'm Anthony Sinitsa</h1>
 <h3 align="center">Software Developer</h3>
 
-- 👨‍💻 Best projects available at [https://santhony.netlify.app](https://santhony.netlify.app)
+- 👨‍💻 Best projects available at [santhony.portfolio](https://santhony.netlify.app)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NBylvw9Th97QOjqhKyZkAS3XX0kxTUbghqiXap15QcY/edit?usp=sharing](https://docs.google.com/document/d/1NBylvw9Th97QOjqhKyZkAS3XX0kxTUbghqiXap15QcY/edit?usp=sharing)
+- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1NBylvw9Th97QOjqhKyZkAS3XX0kxTUbghqiXap15QcY/edit?usp=sharing)
 
 - ⚡ Fun fact **I play piano/bass in my churches symphony**
 
