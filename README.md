@@ -1,10 +1,6 @@
 <h1 align="center">Hello there, I'm Anthony Sinitsa</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonysinitsa&label=Profile%20views&color=0e75b6&style=flat" alt="anthonysinitsa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthonysinitsa" alt="anthonysinitsa" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://santhony.netlify.app](https://santhony.netlify.app)
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1NBylvw9Th97QOjqhKyZkAS3XX0kxTUbghqiXap15QcY/edit?usp=sharing](https://docs.google.com/document/d/1NBylvw9Th97QOjqhKyZkAS3XX0kxTUbghqiXap15QcY/edit?usp=sharing)
