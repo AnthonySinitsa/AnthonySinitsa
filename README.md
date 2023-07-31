@@ -6,8 +6,13 @@
 
 <h1 align="center">👋&nbsp; About Me!</h1>
 
-<p align="center">
-Hi, I'm a Software Developer with a passion for exploring the intersection of art and technology. I specialize in creating immersive experiences that captivate audiences and leave a lasting impression. Thank you!
+- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1NBylvw9Th97QOjqhKyZkAS3XX0kxTUbghqiXap15QcY/edit?usp=sharing)
+
+- ⚡ Fun fact **I play piano/bass in my churches symphony**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-sinitsa-873a22215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthony-sinitsa-873a22215/" height="30" width="40" /></a>
 </p>
 
 <div align="center">  
