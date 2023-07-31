@@ -1,47 +1,86 @@
-<!-- ![smile](smile.png) -->
+![header img here](./img/muun.png)
 
-<h1 align="center">Hello there, I'm Anthony Sinitsa</h1>
-<h3 align="center">Software Developer</h3>
-
-- 👨‍💻 Best projects available at [santhony.portfolio](https://santhony.netlify.app)
-
-- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1NBylvw9Th97QOjqhKyZkAS3XX0kxTUbghqiXap15QcY/edit?usp=sharing)
-
-- ⚡ Fun fact **I play piano/bass in my churches symphony**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-sinitsa-873a22215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthony-sinitsa-873a22215/" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/anthony-sinitsa-873a22215/" target="_blank" rel="noopener noreferrer"><img height="38" src="./img/linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<h1 align="center">👋&nbsp; About Me!</h1>
 
-#
+<p align="center">
+Hi, I'm a Software Developer with a passion for exploring the intersection of art and technology. I specialize in creating immersive experiences that captivate audiences and leave a lasting impression. Thank you!
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonysinitsa&show_icons=true&locale=en&layout=compact" alt="anthonysinitsa" /></p>
+<div align="center">  
+  
+## 📊 Stats
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonySinitsa&count_private=true&show_icons=true&theme=tokyonight&card_width=750)
+  
+## 🐍 &nbsp; Languages
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonysinitsa&show_icons=true&locale=en" alt="anthonysinitsa" /></p>
+|  |  |  |  |
+| ----------- | ----------- | ----------- | ----------- |
+<img src="./img/python.png" width=70/> | <img src="./img/js.png" width=70/> | <img src="./img/html.png" width=70/> | <img src="./img/css.png" width=70/> |
+|  |  |  |  |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonySinitsa&layout=compact&theme=dark&card_width=750&langs_count=6)](https://github.com/AnthonySinitsa/github-readme-stats)
+</div>
+
+<h1 align="center">⚡&nbsp; Projects</h1>
+
+- <b>Jar-Jar Beats</b>
+  - A music playlist creator that allows the user to create a playlist and add songs to it. The user can also search for songs and add them to the playlist.
+  - [Repo](https://github.com/orgs/MVP-Music-Variant-Project/repositories)
+
+- <b>PB&J</b>
+  - A final project that a user can create their own sandwich and will render on the menu in which they can vote for as many times as they want.
+  - [Repo](https://github.com/PeanutButter-and-JavaScript/PB-JS)
+  - [Netlify](https://peanutbutter-and-javascript.github.io/PB-JS/)
+
+- <b>Odd Duck</b>
+  - Displays three images that the user can vote for and once after they vote 25 times a graph with dispaly showing the results.
+  - [Repo](https://github.com/AnthonySinitsa/odd-duck)
+
+- [Python Data Structures and Algorithms](https://github.com/AnthonySinitsa/data-structures-and-algorithms/tree/main/python)
+
+<div align="center">
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnthonySinitsa)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<h1 align="center">🔧 Tools</h1>
+
+<div align="center">
+
+| | | |
+| ----------- | ----------- | ----------- |
+| <img src="./img/mongodb.png" height=40   width=50/> Mongo | <img src="./img/js.png" width=50/> Express.js | <img src="./img/react.png" width=50/> React |
+| <img src="./img/node.png" width=50/> Node | <img src="./img/next_logo.png" width=50/> Next | <img src="./img/django.png" width=50/> Django
+| <img src="./img/tailwind.png" height=40 width=50/><br>TailwindCSS | <img src="./img/docker.png" height=40 width=50/> <br>Docker | <img src="./img/postgresql.png" height=40 width=50/> PostgreSQL
+| <img src="./img/aws.png" height=50 width=50/>AWS | <img src="./img/netlify.png" height=50 width=50/> Netlify | <img src="./img/bash.png" height=50 width=50/> Bash
+| <img src="./img/git.png" width=50/>Git | <img src="./img/github.png" width=50/>Github | <img src="./img/linux.png" width=50/>Linux
+| <img src="./img/angular.png" height=60 width=50/> Angular | <img src="./img/bootstrap_logo.png" height=40 width=50/>Bootstrap | <img src="./img/pandas.png" width=50/> Pandas |
+
+</div>
+
+## Hobbies / Interests
+
+    𝄢 Love playing the piano and bass!
+
+<h1 align="center"> Connect with me !</h1>
+
+  &nbsp; <img src="./img/linkedin.png" width=20/> &nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/anthony-sinitsa-873a22215/)
+
+<h2  align="center">📚 Resources Used to Build This Repo:</h2>
+
+- Header from Canva
+
+- Social media favicons from Icons8
+
+- README Statistics from anuraghazra
+
+- Emojis from webfx.com
+
+- emojipedia.org
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnthonySinitsa.visitor-badge&left_color=green&right_color=red) -->
