@@ -6,9 +6,13 @@
 
 <h1 align="center">👋&nbsp; About Me!</h1>
 
-- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1NBylvw9Th97QOjqhKyZkAS3XX0kxTUbghqiXap15QcY/edit?usp=sharing)
+<p align="center">
+Hi, I'm a Software Developer with a passion for exploring the intersection of art and technology. I specialize in creating immersive experiences that captivate audiences and leave a lasting impression. Thank you!
+</p>
 
-- ⚡ Fun fact **I play piano/bass in my churches symphony**
+- 👨‍💻 Best projects available at [santhony.portfolio](https://santhony.netlify.app)
+
+- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1NBylvw9Th97QOjqhKyZkAS3XX0kxTUbghqiXap15QcY/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,12 +50,12 @@
   - Displays three images that the user can vote for and once after they vote 25 times a graph with dispaly showing the results.
   - [Repo](https://github.com/AnthonySinitsa/odd-duck)
 
-- [Python Data Structures and Algorithms](https://github.com/AnthonySinitsa/data-structures-and-algorithms/tree/main/python)
+<!-- - [Python Data Structures and Algorithms](https://github.com/AnthonySinitsa/data-structures-and-algorithms/tree/main/python) -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnthonySinitsa)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
 
 <h1 align="center">🔧 Tools</h1>
 
