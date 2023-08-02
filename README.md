@@ -76,4 +76,7 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 
 - emojipedia.org -->
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnthonySinitsa.visitor-badge&left_color=green&right_color=red) -->
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AnthonySinitsa/count.svg" />
+</p>
