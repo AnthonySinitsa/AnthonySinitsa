@@ -37,11 +37,11 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 
 |  |  |
 | ----------- | ----------- |
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Cover_Me)](https://github.com/AnthonySinitsa/Cover_Me) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=JarJar-Beats-FrontEnd)](https://github.com/AnthonySinitsa/JarJar-Beats-FrontEnd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Cover_Me&theme=gruvbox)](https://github.com/AnthonySinitsa/Cover_Me) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=JarJar-Beats-FrontEnd&theme=gruvbox)](https://github.com/AnthonySinitsa/JarJar-Beats-FrontEnd)
 
 |  |  |
 | ----------- | ----------- |
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=PB-JS)](https://github.com/AnthonySinitsa/PB-JS) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=odd-duck)](https://github.com/AnthonySinitsa/odd-duck)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=PB-JS&theme=gruvbox)](https://github.com/AnthonySinitsa/PB-JS) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=odd-duck&theme=gruvbox)](https://github.com/AnthonySinitsa/odd-duck)
 
 </div>
 
@@ -76,4 +76,4 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 
 - emojipedia.org -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AnthonySinitsa.visitor-badge&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnthonySinitsa.visitor-badge&left_color=green&right_color=red) -->
