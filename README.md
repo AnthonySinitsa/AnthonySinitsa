@@ -1,4 +1,4 @@
-![header img here](./img/muun.png)
+<!-- ![header img here](./img/muun.png) -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anthony-sinitsa-873a22215/" target="_blank" rel="noopener noreferrer"><img height="38" src="./img/linkedin.png"></a>&nbsp;&nbsp;
@@ -32,10 +32,12 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 <img src="./img/python.png" width=70/> | <img src="./img/js.png" width=70/> | <img src="./img/html.png" width=70/> | <img src="./img/css.png" width=70/> |
 |  |  |  |  |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonySinitsa&layout=compact&theme=dark&card_width=750&langs_count=6)](https://github.com/AnthonySinitsa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonySinitsa&layout=donut&theme=dark&card_width=750&langs_count=4&hide=CSS)](https://github.com/AnthonySinitsa/github-readme-stats)
 </div>
 
 <h1 align="center">⚡&nbsp; Projects</h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Cover_Me)](https://github.com/AnthonySinitsa/Cover_Me)
 
 - <b>Jar-Jar Beats</b>
   - A music playlist creator that allows the user to create a playlist and add songs to it. The user can also search for songs and add them to the playlist.
@@ -76,7 +78,7 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 
     𝄢 Love playing the piano and bass!
 
-<h1 align="center"> Connect with me !</h1>
+<!-- <h1 align="center"> Connect with me !</h1>
 
   &nbsp; <img src="./img/linkedin.png" width=20/> &nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/anthony-sinitsa-873a22215/)
 
@@ -90,6 +92,6 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 
 - Emojis from webfx.com
 
-- emojipedia.org
+- emojipedia.org -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnthonySinitsa.visitor-badge&left_color=green&right_color=red) -->
