@@ -33,27 +33,17 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 
 <h1 align="center">⚡&nbsp; Projects</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Cover_Me)](https://github.com/AnthonySinitsa/Cover_Me)
+<!-- <div align='center'> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=JarJar-Beats-FrontEnd)](https://github.com/AnthonySinitsa/JarJar-Beats-FrontEnd)
+|  |  |  |  |
+| ----------- | ----------- | ----------- | ----------- |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Cover_Me)](https://github.com/AnthonySinitsa/Cover_Me) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=JarJar-Beats-FrontEnd)](https://github.com/AnthonySinitsa/JarJar-Beats-FrontEnd)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=PB-JS)](https://github.com/AnthonySinitsa/PB-JS)
+|  |  |  |  |
+| ----------- | ----------- | ----------- | ----------- |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=PB-JS)](https://github.com/AnthonySinitsa/PB-JS) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=odd-duck)](https://github.com/AnthonySinitsa/odd-duck)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=odd-duck)](https://github.com/AnthonySinitsa/odd-duck)
-
-- <b>Jar-Jar Beats</b>
-  - A music playlist creator that allows the user to create a playlist and add songs to it. The user can also search for songs and add them to the playlist.
-  - [Repo](https://github.com/orgs/MVP-Music-Variant-Project/repositories)
-
-- <b>PB&J</b>
-  - A final project that a user can create their own sandwich and will render on the menu in which they can vote for as many times as they want.
-  - [Repo](https://github.com/PeanutButter-and-JavaScript/PB-JS)
-  - [Netlify](https://peanutbutter-and-javascript.github.io/PB-JS/)
-
-- <b>Odd Duck</b>
-  - Displays three images that the user can vote for and once after they vote 25 times a graph with dispaly showing the results.
-  - [Repo](https://github.com/AnthonySinitsa/odd-duck)
-
+<!-- </div> -->
 <!-- - [Python Data Structures and Algorithms](https://github.com/AnthonySinitsa/data-structures-and-algorithms/tree/main/python) -->
 
 <!-- <div align="center">
