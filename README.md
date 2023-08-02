@@ -39,6 +39,12 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Cover_Me)](https://github.com/AnthonySinitsa/Cover_Me)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=JarJar-Beats-FrontEnd)](https://github.com/AnthonySinitsa/JarJar-Beats-FrontEnd)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=PB-JS)](https://github.com/AnthonySinitsa/PB-JS)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=odd-duck)](https://github.com/AnthonySinitsa/odd-duck)
+
 - <b>Jar-Jar Beats</b>
   - A music playlist creator that allows the user to create a playlist and add songs to it. The user can also search for songs and add them to the playlist.
   - [Repo](https://github.com/orgs/MVP-Music-Variant-Project/repositories)
