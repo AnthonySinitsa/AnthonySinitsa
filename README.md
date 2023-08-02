@@ -33,7 +33,7 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 
 <h1 align="center">⚡&nbsp; Projects</h1>
 
-<!-- <div align='center'> -->
+<div align='center'>
 
 |  |  |  |  |
 | ----------- | ----------- | ----------- | ----------- |
@@ -43,13 +43,7 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 | ----------- | ----------- | ----------- | ----------- |
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=PB-JS)](https://github.com/AnthonySinitsa/PB-JS) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=odd-duck)](https://github.com/AnthonySinitsa/odd-duck)
 
-<!-- </div> -->
-<!-- - [Python Data Structures and Algorithms](https://github.com/AnthonySinitsa/data-structures-and-algorithms/tree/main/python) -->
-
-<!-- <div align="center">
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnthonySinitsa)](https://github.com/anuraghazra/github-readme-stats)
-</div> -->
+</div>
 
 <h1 align="center">🔧 Tools</h1>
 
@@ -70,11 +64,7 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 
     𝄢 Love playing the piano and bass!
 
-<!-- <h1 align="center"> Connect with me !</h1>
-
-  &nbsp; <img src="./img/linkedin.png" width=20/> &nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/anthony-sinitsa-873a22215/)
-
-<h2  align="center">📚 Resources Used to Build This Repo:</h2>
+<!-- <h2  align="center">📚 Resources Used to Build This Repo:</h2>
 
 - Header from Canva
 
