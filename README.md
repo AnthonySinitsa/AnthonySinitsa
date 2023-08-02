@@ -1,9 +1,5 @@
 <!-- ![header img here](./img/muun.png) -->
 
-<p align="center">
-<a href="https://www.linkedin.com/in/anthony-sinitsa-873a22215/" target="_blank" rel="noopener noreferrer"><img height="38" src="./img/linkedin.png"></a>&nbsp;&nbsp;
-</p>
-
 <h1 align="center">👋&nbsp; About Me!</h1>
 
 <p align="center">
