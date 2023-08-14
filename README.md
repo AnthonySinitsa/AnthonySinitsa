@@ -3,8 +3,10 @@
 <h1 align="center">👋&nbsp; About Me!</h1>
 
 <p align="center">
-I write my code on paper
+I write my code on paper then scan it on a fax machine
 </p>
+
+#
 
 - 👨‍💻 Best projects available at [santhony.portfolio](https://santhony.netlify.app)
 
