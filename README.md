@@ -3,7 +3,7 @@
 <h1 align="center">👋&nbsp; About Me!</h1>
 
 <p align="center">
-Hi, I'm a Software Developer with a passion for exploring the intersection of art and technology. I specialize in creating immersive experiences that captivate audiences and leave a lasting impression. Thank you!
+I write my code on paper
 </p>
 
 - 👨‍💻 Best projects available at [santhony.portfolio](https://santhony.netlify.app)
@@ -51,12 +51,11 @@ Hi, I'm a Software Developer with a passion for exploring the intersection of ar
 
 | | | |
 | ----------- | ----------- | ----------- |
-| <img src="./img/mongodb.png" height=40   width=50/> Mongo | <img src="./img/js.png" width=50/> Express.js | <img src="./img/react.png" width=50/> React |
-| <img src="./img/node.png" width=50/> Node | <img src="./img/next_logo.png" width=50/> Next | <img src="./img/django.png" width=50/> Django
-| <img src="./img/tailwind.png" height=40 width=50/><br>TailwindCSS | <img src="./img/docker.png" height=40 width=50/> <br>Docker | <img src="./img/postgresql.png" height=40 width=50/> PostgreSQL
-| <img src="./img/aws.png" height=50 width=50/>AWS | <img src="./img/netlify.png" height=50 width=50/> Netlify | <img src="./img/bash.png" height=50 width=50/> Bash
-| <img src="./img/git.png" width=50/>Git | <img src="./img/github.png" width=50/>Github | <img src="./img/linux.png" width=50/>Linux
-| <img src="./img/angular.png" height=60 width=50/> Angular | <img src="./img/bootstrap_logo.png" height=40 width=50/>Bootstrap | <img src="./img/pandas.png" width=50/> Pandas |
+| <img src="./img/vim.png" height=40   width=50/> Vim | <img src="./img/auth0.png" width=50/> auth0 | <img src="./img/django.png" width=50/> Django |
+| <img src="./img/docker.png" width=50/> Docker | <img src="./img/git.png" width=50/> Git | <img src="./img/github.png" width=50/> Github
+| <img src="./img/linux.png" height=40 width=50/><br>Linux | <img src="./img/mongodb.png" height=40 width=50/> <br>MongoDB | <img src="./img/netlify.png" height=40 width=50/> Netlify
+| <img src="./img/next_logo.png" height=50 width=50/>Next.js | <img src="./img/node.png" height=50 width=50/> Node | <img src="./img/pandas.png" height=50 width=50/> Pandas
+| <img src="./img/react.png" width=50/>React | <img src="./img/tailwind.png" width=50/>Tailwind | <img src="./img/linux.png" width=50/>Linux
 
 </div>
 
