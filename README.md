@@ -21,7 +21,7 @@ I write my code on paper then scan it on a fax machine
   
 ## 📊 Stats
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonySinitsa&count_private=true&show_icons=true&theme=kacho_ga&card_width=750)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonySinitsa&count_private=true&show_icons=true&theme=gruvbox_light&card_width=750)
   
 ## 🐍 &nbsp; Languages
 
