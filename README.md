@@ -12,12 +12,9 @@ I write my code on paper then scan it on a fax machine
 
 - 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1NBylvw9Th97QOjqhKyZkAS3XX0kxTUbghqiXap15QcY/edit?usp=sharing)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/anthonysinitsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthony-sinitsa-873a22215/" height="30" width="40" /></a>
-</p>
+- 🔗 Connect with my [LinkedIn](https://www.linkedin.com/in/anthony-sinitsa-873a22215/)
 
-<div align="center">  
+<div align="center">
   
 ## 📊 Stats
   
@@ -77,7 +74,7 @@ I write my code on paper then scan it on a fax machine
 
 - emojipedia.org -->
 
-<p align="center">
+<!-- <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AnthonySinitsa/count.svg" />
-</p>
+</p> -->
