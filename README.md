@@ -36,7 +36,7 @@ I write my code on paper then scan it on a fax machine
 
 |  |  |
 | ----------- | ----------- |
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Cover_Me&theme=gruvbox)](https://github.com/AnthonySinitsa/Cover_Me) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=JarJar-Beats-FrontEnd&theme=gruvbox)](https://github.com/AnthonySinitsa/JarJar-Beats-FrontEnd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Cover_Me&theme=gruvbox)](https://github.com/AnthonySinitsa/cover-me-resume) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=JarJar-Beats-FrontEnd&theme=gruvbox)](https://github.com/AnthonySinitsa/JarJar-Beats-FrontEnd)
 
 |  |  |
 | ----------- | ----------- |
