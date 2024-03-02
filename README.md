@@ -16,9 +16,9 @@ I write my code on paper then scan it on a fax machine
 
 <div align="center">
   
-## 📊 Stats
+<!-- ## 📊 Stats -->
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonySinitsa&count_private=true&show_icons=true&theme=gruvbox_light&card_width=750)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonySinitsa&count_private=true&show_icons=true&theme=gruvbox_light&card_width=750) -->
   
 <!-- ## 🐍 &nbsp; Languages
 
@@ -50,7 +50,7 @@ I write my code on paper then scan it on a fax machine
 
 | | | |
 | ----------- | ----------- | ----------- |
-| <img src="./img/vim.png" height=40   width=50/> Vim | <img src="./img/auth1.png" width=50/> auth0 | <img src="./img/django.png" width=50/> Django |
+| <img src="./img/unity2.png" height=40   width=50/> Unity | <img src="./img/auth1.png" width=50/> auth0 | <img src="./img/django.png" width=50/> Django |
 | <img src="./img/docker.png" width=50/> Docker | <img src="./img/git.png" width=50/> Git | <img src="./img/github.png" width=50/> Github
 | <img src="./img/linux.png" height=40 width=50/><br>Linux | <img src="./img/mongodb.png" height=40 width=50/> <br>MongoDB | <img src="./img/netlify.png" height=40 width=50/> Netlify
 | <img src="./img/next_logo.png" height=50 width=50/>Next.js | <img src="./img/node.png" height=50 width=50/> Node | <img src="./img/pandas.png" height=50 width=50/> Pandas
