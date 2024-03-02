@@ -13,20 +13,6 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 - 🔗 Connect with my [LinkedIn](https://www.linkedin.com/in/anthony-sinitsa-873a22215/)
 
 <div align="center">
-  
-<!-- ## 📊 Stats -->
-  
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonySinitsa&count_private=true&show_icons=true&theme=gruvbox_light&card_width=750) -->
-  
-<!-- ## 🐍 &nbsp; Languages
-
-|  |  |  |  |
-| ----------- | ----------- | ----------- | ----------- |
-<img src="./img/python.png" width=70/> | <img src="./img/js.png" width=70/> | <img src="./img/html.png" width=70/> | <img src="./img/css.png" width=70/> |
-|  |  |  |  |
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonySinitsa&layout=donut&theme=dark&card_width=750&langs_count=4&hide=CSS)](https://github.com/AnthonySinitsa/github-readme-stats)
-</div> -->
 
 <h1 align="center">&nbsp; Projects</h1>
 
@@ -70,8 +56,3 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 - Emojis from webfx.com
 
 - emojipedia.org -->
-
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AnthonySinitsa/count.svg" />
-</p> -->
