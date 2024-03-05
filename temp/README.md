@@ -10,7 +10,7 @@ Hi, I'm Anthony Sinitsa and I am a Software Developer. <br>I am currently learni
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnthonySinitsa&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnthonySinitsa&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonySinitsa&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonySinitsa&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=C++)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnthonySinitsa&icon=2&color=4)](https://visitcount.itsvg.in)
