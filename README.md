@@ -20,17 +20,14 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 |  |  |
 | ----------- | ----------- |
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Cover_Me&theme=gruvbox)](https://github.com/AnthonySinitsa/cover-me-resume) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=JarJar-Beats-FrontEnd&theme=gruvbox)](https://github.com/AnthonySinitsa/JarJar-Beats-FrontEnd)
 
 |  |  |
 | ----------- | ----------- |
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=PB-JS&theme=gruvbox)](https://github.com/AnthonySinitsa/PB-JS) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Clouds&theme=gruvbox)](https://github.com/AnthonySinitsa/Clouds)
 
 |  |  |
 | ----------- | ----------- |
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Gallery-of-Horns&theme=gruvbox)](https://github.com/AnthonySinitsa/Gallery-of-Horns) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=city-explorer&theme=gruvbox)](https://github.com/AnthonySinitsa/city-explorer)
 
 |  |  |
