@@ -12,6 +12,20 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 - 🔗 Connect with my [LinkedIn](https://www.linkedin.com/in/anthony-sinitsa-873a22215/)
 
+#
+
+Currently doing:
+
+- Reading through RasterkTek series about DirectX 11 and creating graphics enigne
+
+Doing Later:
+
+- Create "realistic" water using unity, "sum of sines"
+
+- render millions of blades of grass using gpu instancing
+
+- read through GPU gems and real-time-rendering-4th-edition
+
 <div align="center">
 
 <h1 align="center">&nbsp; Projects</h1>
