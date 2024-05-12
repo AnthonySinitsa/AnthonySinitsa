@@ -14,11 +14,11 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 #
 
-Currently doing:
+📚 Currently doing:
 
 - Reading through RasterkTek series about DirectX 11 and creating graphics enigne
 
-Doing Later:
+⏳Doing Later:
 
 - Create "realistic" water using unity, "sum of sines"
 
