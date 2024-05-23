@@ -38,8 +38,6 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Gallery-of-Horns&theme=gruvbox)](https://github.com/AnthonySinitsa/Gallery-of-Horns) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=city-explorer&theme=gruvbox)](https://github.com/AnthonySinitsa/city-explorer)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Engine&theme=gruvbox)](https://github.com/AnthonySinitsa/Engine)
-
 </div>
 
 <div align="center">
@@ -49,6 +47,8 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 <div align='center'>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=shell-texturing&theme=gruvbox)](https://github.com/AnthonySinitsa/shell-texturing) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Clouds&theme=gruvbox)](https://github.com/AnthonySinitsa/Clouds)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Engine&theme=gruvbox)](https://github.com/AnthonySinitsa/Engine)
 
 <div>
 
