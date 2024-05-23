@@ -66,3 +66,6 @@ Done:
 <!-- [![](https://visitcount.itsvg.in/api?id=AnthonySinitsa&icon=2&color=4)](https://visitcount.itsvg.in) -->
 
 </div>
+
+<!-- git remote set-url origin https://<TOKEN>@github.com/AnthonySinitsa/AnthonySinitsa.git
+ -->
