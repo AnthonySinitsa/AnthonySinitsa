@@ -14,13 +14,19 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 #
 
+Done:
+
+- Implemented shell texturing
+
+- Read through RasterkTek series about DirectX 11 and creating graphics enigne
+
 📚 Currently doing:
 
-- Reading through RasterkTek series about DirectX 11 and creating graphics enigne
+- Creating realistic water using unity utilizing sum of sines
 
 ⏳Doing Later:
 
-- Create "realistic" water using unity, "sum of sines"
+- Improve the water using FFT(Fast Fourier Transform)
 
 - render millions of blades of grass using gpu instancing
 
