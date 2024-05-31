@@ -14,23 +14,25 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 #
 
-Done:
+Finished:
 
 - Implemented shell texturing
 
 - Read through RasterkTek series about DirectX 11 and creating graphics enigne
 
+- Implemented billboard grass rendering
+
 📚 Currently doing:
 
-- Creating realistic water using unity utilizing sum of sines
+- Exploring different grass rendering techniques
+
+- Readind through GPU gems and real-time-rendering-4th-edition
 
 ⏳Doing Later:
 
+- Creating realistic water using unity utilizing sum of sines
+
 - Improve the water using FFT(Fast Fourier Transform)
-
-- render millions of blades of grass using gpu instancing
-
-- read through GPU gems and real-time-rendering-4th-edition
 
 <div align="center">
 
