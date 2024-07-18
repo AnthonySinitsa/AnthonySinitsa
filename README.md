@@ -25,6 +25,7 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 <a href="https://github.com/AnthonySinitsa/Shell-Texturing"><img src="img/project/shellTexture/shellTexture.gif"></a>
 <a href="https://github.com/AnthonySinitsa/Terrain"><img src="img/project/terrain/terrain.gif"></a> </br>
 <a href="https://github.com/AnthonySinitsa/Grass"><img src="img/project/grass/grass.gif"></a>
+<a href="https://github.com/AnthonySinitsa/Water"><img src="img/project/water/water.gif"></a> </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=shell-texturing&theme=gruvbox)](https://github.com/AnthonySinitsa/shell-texturing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Terrain&theme=gruvbox)](https://github.com/AnthonySinitsa/Terrain)
