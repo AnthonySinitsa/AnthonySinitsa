@@ -16,13 +16,7 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 📚 Currently studying:
 
-- Create realistic water using unity utilizing sum of sines
-
-- Reading through GPU gems and real-time-rendering-4th-edition
-
-⏳ Future tasks:
-
-- Improve the water using FFT(Fast Fourier Transform)
+- Studying how to implement Ray-Tracing with Vulkan API
 
 <div align="center">
 
