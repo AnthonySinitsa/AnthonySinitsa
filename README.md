@@ -20,9 +20,11 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 <div align="center">
 
-<h1 align="center">&nbsp; Graphical Projects</h1>
+<h1 align="center">Graphical Projects</h1>
 
 <div align='center'>
+
+<a href="https://github.com/AnthonySinitsa/Shell-Texturing"><img src="img/project/shellTexture/shellTexture.gif"></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=shell-texturing&theme=gruvbox)](https://github.com/AnthonySinitsa/shell-texturing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonySinitsa&repo=Terrain&theme=gruvbox)](https://github.com/AnthonySinitsa/Terrain)
