@@ -6,9 +6,9 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 #
 
-- 👨‍💻 Best projects available at [santhony.portfolio](https://santhony.netlify.app)
+- 👨‍💻 [santhony.portfolio](https://santhony.netlify.app)
 
-- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1AfSHmAKHfi0Ti6ftlHyN7Wc8tphoEr5K0yDtIPjoyOM/edit?usp=sharing)
+<!-- - 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1AfSHmAKHfi0Ti6ftlHyN7Wc8tphoEr5K0yDtIPjoyOM/edit?usp=sharing) -->
 
 - 🔗 Connect with my [LinkedIn](https://www.linkedin.com/in/anthony-sinitsa-873a22215/)
 
