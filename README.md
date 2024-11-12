@@ -12,11 +12,15 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 - 🔗 Connect with my [LinkedIn](https://www.linkedin.com/in/anthony-sinitsa-873a22215/)
 
+- 📜 Graphics Programming [Resume](https://docs.google.com/document/d/1Xxsi5Tbtw8LKpEe-JIT2NpLnUOr3d4IkpsmiHdMVkoA/edit?usp=sharing)
+
+- 📜 Web Dev [Resume](https://docs.google.com/document/d/1AfSHmAKHfi0Ti6ftlHyN7Wc8tphoEr5K0yDtIPjoyOM/edit?usp=sharing)
+
 #
 
 📚 Currently studying:
 
-- Studying how to implement Ray-Tracing with Vulkan API
+- Working on making a rendering engine with the Vulkan API
 
 
 <h1 align="center">Graphical Projects</h1>
