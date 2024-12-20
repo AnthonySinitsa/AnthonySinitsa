@@ -6,7 +6,7 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 
 #
 
-- 👨‍💻 [santhony.portfolio](https://santhony.netlify.app)
+- 👨‍💻 [santhony.portfolio](https://anthonysinitsa.com)
 
 <!-- - 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1AfSHmAKHfi0Ti6ftlHyN7Wc8tphoEr5K0yDtIPjoyOM/edit?usp=sharing) -->
 
