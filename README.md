@@ -28,8 +28,8 @@ Hi, I'm Anthony Sinitsa and I'm a software developer
 <div align='center'>
 <a href="https://github.com/AnthonySinitsa/Shell-Texturing"><img src="img/project/shellTexture/shellTexture2.gif"></a>
 <a href="https://github.com/AnthonySinitsa/VoxelEngine"><img src="img/project/vEngine/Galaxy2.gif"></a> </br>
-<a href="https://github.com/AnthonySinitsa/Terrain"><img src="img/project/terrain/terrain2.gif"></a>
-<a href="https://github.com/AnthonySinitsa/Grass"><img src="img/project/grass/grass3.gif"></a> </br>
+<a href="https://github.com/AnthonySinitsa/Grass"><img src="img/project/grass/420ModelGrass.gif"></a>
+<a href="https://github.com/AnthonySinitsa/Terrain"><img src="img/project/terrain/terrain2.gif"></a> </br>
 <a href="https://github.com/AnthonySinitsa/Water"><img src="img/project/water/water2.gif"></a>
 <a href="https://github.com/AnthonySinitsa/Clouds"><img src="img/project/clouds/clouds2.gif"></a> </br>
 </div>
